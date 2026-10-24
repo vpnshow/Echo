@@ -64,13 +64,29 @@ Echo 提供专线机场订阅，常见叫法包括“Echo VPN”“Echo 梯子�
 
 <a id="echo-speed-test"></a>
 
-## Echo VPN 专线、流媒体解锁与晚高峰测速
+## Echo VPN 专线、流媒体解锁与测速记录
+
+### 历史截图的文字结果
+
+来源为本页已有的 FFQ.LA / MiaoKo 测速与常规流媒体截图。图中时间为 **2026-03-13 14:46:05（CST）**，环境标注华南中山电信 1Gbps，工具为喵速 5.0.0-beta8，4 线程；该时间属于下午，不能作为晚高峰测试。
+
+下表摘录部分节点，保留原图的速度单位，未换算为 Mbps；完整记录见下方原图。
+
+| 节点（截图摘录） | TLS RTT | HTTPS 延迟 | 平均速度（原图单位） | 最高速度（原图单位） | 其他记录 |
+| --- | --- | --- | --- | --- | --- |
+| 香港01 | 151ms | 430ms | 96.67MB | 104.41MB | Netflix / Disney+：HK；ChatGPT：TW |
+| 香港02 | 74ms | 228ms | 70.55MB | 101.98MB | Netflix / Disney+：HK；ChatGPT：N/A |
+| 台湾04 | 62ms | 160ms | 10.97MB | 12.75MB | Netflix / Disney+ / ChatGPT：TW |
+| 日本01 | 81ms | 194ms | 51.46MB | 58.95MB | Netflix / Disney+：HK；ChatGPT：JP |
+| 新加坡01 | 67ms | 212ms | 80.99MB | 100.98MB | BiliBili：失败；ChatGPT：SG |
+
+节点名称与平台识别地区可能不同；N/A 和失败均保留原意，不表示全平台解锁。记录只反映当时该节点的检测结果。
 
 ![Echo 拓扑图](https://i.eoht.net/airport/echo_analyze.webp)
 
 ![Echo 解锁图](https://i.eoht.net/airport/echo_unlock.webp)
 
-![Echo 中山电信晚高峰测速图](https://i.eoht.net/airport/echo_zhongshan_telecom.webp)
+![Echo 中山电信历史测速图](https://i.eoht.net/airport/echo_zhongshan_telecom.webp)
 
 <a id="echo-related-guides"></a>
 
