@@ -4,17 +4,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/echo) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-Echo 提供专线机场订阅，常见叫法包括“Echo VPN”“Echo 梯子”和“Echo 机场”。本文整理注册试用、套餐价格，以及代理节点的晚高峰测速记录；想降低首次尝试成本，可先用 5GB/3 小时试用核对本地网络，再按流量与线路表现选择套餐。
-
 > [!NOTE]
 > **30 秒看懂 Echo**
+>
+> [访问官网](https://eoht.net/serve/airport/echo) · [查看套餐与优惠](#echo-vpn-plans) · [查看晚高峰测速](#echo-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
 > - **最低门槛**：Lite 套餐 80GB/月，年付 ¥96；注册页面列有 5GB/3 小时试用。
 > - **核心特点**：主打专线中转、多服务器负载均衡和不设节点倍率。
 > - **优惠与场景**：页面列有 8 折码，并提供流媒体支持与多平台客户端。
 >
-> [查看套餐与优惠](#echo-vpn-plans) · [查看晚高峰测速](#echo-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
->
+
+Echo 提供专线机场订阅，常见叫法包括“Echo VPN”“Echo 梯子”和“Echo 机场”。本文整理注册试用、套餐价格，以及代理节点的晚高峰测速记录；想降低首次尝试成本，可先用 5GB/3 小时试用核对本地网络，再按流量与线路表现选择套餐。
 
 <a id="echo-official-website"></a>
 
